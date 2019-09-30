@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name             = 'EITRI',
-    version          = '1.1',
+    version          = '1.2',
     description      = 'SDK for EITRI Blockchain',
     author           = 'JeongTae Park',
     author_email     = 'pjt3591oo@gmail.com',
