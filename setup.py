@@ -1,15 +1,19 @@
 from setuptools import setup, find_packages
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 setup(
     name             = 'EITRI',
-    version          = '1.2',
+    version          = '1.8',
     description      = 'SDK for EITRI Blockchain',
     author           = 'JeongTae Park',
     author_email     = 'pjt3591oo@gmail.com',
     url              = 'https://github.com/bitrustkr/CLT-Blockchain-SDK-PY',
     download_url     = '',
     install_requires = [ "jsonrpc2"],
-    long_description = open('README.md').read(),
+    long_description = long_description,
+    long_description_content_type = "text/markdown",
     packages         = find_packages(exclude = ['docs', 'tests*']),
     keywords         = ['blockchain', 'sdk', 'eitri', 'EITRI'],
     python_requires  = '>=3',

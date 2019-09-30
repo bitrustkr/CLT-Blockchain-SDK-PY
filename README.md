@@ -1,4 +1,4 @@
-<img src="./docs/images/logo.png" width="100%" height="auto">
+![logo](https://raw.githubusercontent.com/bitrustkr/CLT-Blockchain-SDK-PY/master/docs/images/logo.png)
 
 # CLT-Blockchain-SDK
 
