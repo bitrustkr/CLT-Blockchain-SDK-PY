@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/bitrustkr/CLT-Blockchain-SDK-PY/master/docs/images/logo.png)
 
-# CLT-Blockchain-SDK
+# EITRI.py
 
 * [usage](#usage)
 * [development](#development)
@@ -59,3 +59,8 @@ $ ./publish.sh
 배포하기 위해 **`setup.py`**의 **`version`** 변경
 
 [pip](https://pypi.org/project/EITRI) 배포
+
+
+### Similar libraries in other languages
+
+* javascript [EITRI.js](https://github.com/bitrustkr/CLT-Blockchain-SDK-JS)
