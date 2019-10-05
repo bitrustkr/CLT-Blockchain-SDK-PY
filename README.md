@@ -56,7 +56,7 @@ $ python test.py
 $ ./publish.sh
 ```
 
-배포하기 위해 **`setup.py`**의 **`version`** 변경
+배포하기 위해 **`setup.py`** 의 **`version`** 변경
 
 [pip](https://pypi.org/project/EITRI) 배포
 
