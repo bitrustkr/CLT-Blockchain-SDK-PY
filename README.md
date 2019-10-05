@@ -63,4 +63,4 @@ $ ./publish.sh
 
 ### Similar libraries in other languages
 
-* javascript [EITRI.js](https://github.com/bitrustkr/CLT-Blockchain-SDK-JS)
+* javascript [EITRI.js](https://bitrustkr.github.io/CLT-Blockchain-SDK-JS)

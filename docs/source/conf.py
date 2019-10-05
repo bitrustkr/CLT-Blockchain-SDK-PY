@@ -24,7 +24,7 @@ source_parsers = {
 
 # -- Project information -----------------------------------------------------
 
-project = 'EITRI.js'
+project = 'EITRI.py'
 copyright = '2019, mung'
 author = 'mung'
 
