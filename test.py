@@ -1,5 +1,7 @@
 from EITRI.eitri import eitri
 
+from EITRI import utils
+
 if __name__ == "__main__":
   e = eitri(
     ip = "127.0.0.1",
@@ -27,3 +29,10 @@ if __name__ == "__main__":
   validators = e.validator.get_validators()
   print(validators)
   print()
+
+  print(utils.fromConvert(1))
+  print(utils.toConvert(1))
+  print(utils.unitMap())
+  print(utils.isAddress(1))
+  print(utils.isTxHash(1))
+  print(utils.isBlockHash(1))
